@@ -1,0 +1,24 @@
+2024-9-13 14:12:47
+ff271be57696
+Accepted
+00109
+1ms
+2MB
+C	
+lvrui
+2024-9-13 14:08:21
+f19fe70c0843
+Accepted
+00108
+0ms
+2MB
+C	
+lvrui
+2024-9-13 14:03:37
+b44f49dc8dc2
+Wrong Answer
+00108
+1ms
+2MB
+C	
+lvrui
