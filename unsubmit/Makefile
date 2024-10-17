@@ -8,9 +8,9 @@ CFLAGS = -Wall -g
 LDFLAGS = -lm
 
 # 定义源文件和目标文件
-SRC = 00139.c
-OBJ = 00139.o
-TARGET = 00139
+SRC = 00145.c
+OBJ = 00145.o
+TARGET = 00145
 
 # 生成可执行文件规则
 $(TARGET): $(OBJ)
